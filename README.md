@@ -387,3 +387,9 @@ Bio: Aspiring to help with local trail/park maintenance and conservation project
 Place: Chattanooga, TN
 Github: (https://github.com/cammer87)
 Instagram: @caleb_math
+
+Name: Iris Riddell
+Bio: Currently teaching English in Japan and having a great time doing it.
+Place: Minamisoma, Fukushima, Japan
+Github: (https://github.com/rissadell)
+Twitter: Rissadelli
